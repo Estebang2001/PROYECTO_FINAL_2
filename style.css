@@ -1,0 +1,117 @@
+#title {
+    font-family: 'Lobster', cursive;
+    font-size: 4rem;
+
+   
+}
+#nombre {
+    color: white;
+    font-family: 'Lobster', cursive;
+    font-size: 4rem;
+}
+
+#apellido {
+    color: orange;
+    font-family: 'Lobster', cursive;
+    font-size: 3rem;
+}
+
+
+
+.barra {
+    font-size: 1.5rem;
+    color: black;
+}
+
+.foto {
+    width: 80%;
+    height: auto;
+    
+}
+
+#parrafo {
+    text-align: justify;
+    width: 100%;
+  
+}
+
+.placeholders {
+    background-color: black;
+}
+
+#porta {
+    font-family: 'Lobster', cursive;
+}
+
+.fotomia {
+   margin-top: 20px;
+    border-radius: 20px;
+}
+
+.slides {
+border-radius: 20px;
+}
+
+.sub {
+    color: white;
+}
+
+.sub:hover{
+    color: orange;
+}
+
+
+#acercademi {
+    font-family: 'Lobster', cursive;
+    
+}
+
+.textoacercademi {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.acerca {
+    margin-top: 40px;
+}
+
+#salesforce {
+    color: blue;
+    font-weight: 700;
+}
+.formulario {
+    margin-top: 50px;
+    margin-left: 30px;
+
+}
+
+#col {
+    color: yellow;
+    font-weight: 700;
+    text-shadow: 1px 1px 1px black;
+}
+
+#om {
+    color: blue;
+    font-weight: 700;
+    text-shadow: 1px 1px 1px black;
+}
+
+#bia {
+    color: red;
+    font-weight: 700;
+    text-shadow: 1px 1px 1px black;
+}
+
+#iconos {
+    margin-right: 20px;
+}
+
+.footer {
+    color: white;
+    font-family: 'Lobster', cursive;
+}
+
+#pie {
+   padding-top: 20px;
+    
+}
